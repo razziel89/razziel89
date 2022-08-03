@@ -16,7 +16,7 @@
 <p align="left"> 
 
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
-<img src="https://commons.wikimedia.org/wiki/File:Neovim-mark.svg" alt="neovim" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/> 
 </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
