@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Torsten
 
-### I'm a physicist and software developer with a focus on CLIs and backends.
+### I'm a physicist and software developer with a passion for CLIs and backends.
 
 - 🔭 At the moment, I am developing a customised home automation solution.
 - 🌱 I’m currently learning Rust and Haskell.
